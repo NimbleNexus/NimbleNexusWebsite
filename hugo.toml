@@ -1,0 +1,4 @@
+baseURL = 'https://nimblenexus.io/'
+languageCode = 'en-us'
+title = 'Nimble Nexus'
+theme = 'tailbliss'
