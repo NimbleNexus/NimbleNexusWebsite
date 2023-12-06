@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nimble Nexus - Currently Revolutionizing Portraiture with AI - Blending Business with Creativity at Nimble Nexus</title>
+  <!-- Import Tailwind CSS from CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .hero-image {
+      background-color: #010b17;
+    }
+    .hero-image img {
+      box-shadow: 0px 0 4px 4px rgba(0, 0, 0, 0.5);
+    }
+    .hero-image p::before {
+      content: "";
+      display: block;
+      position: absolute;
+      margin-top: -40px;
+      left: 0; right: 0;
+      height: 40px;
+      z-index: 1;
+      background: linear-gradient(to bottom, transparent 0px, #010b17 20px, #010b17);
+    }
+    .hero-image p {
+      margin-top: -20px;
+      padding: 40px 0 40px;
+    }
+    article {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    article p {
+      padding: 10vh 0;
+    }
+    .hero-image p,
+    article p {
+      max-width: 50vw;
+      min-width: calc(min(80vw, 30em));
+      margin-left: auto;
+      margin-right: auto;
+    }
+    a {
+      font-weight: bold;
+      border-width: 0 0 1px 0;
+      border-style: solid;
+      border-color: rgba(255, 255, 255, .5);
+    }
+  </style>
+</head>
+<body class="text-white bg-[#001724]">
+
+<div class="mx-auto h-screen">
+    <header class="p-5 flex items-center">
+        <img src="/images/nimble-nexus-logo-300px.jpg" alt="Nimble Nexus Logo" class="h-[60px] mr-4">
+        <h1 class="text-4xl font-bold">Nimble Nexus</h1>
+    </header>
+    <main class="text-xl">
+        <div class="hero-image">
+            <img src="/images/nimble-nexus-website-hero-wide.jpg" alt="Currently Revolutionizing Portraiture with AI" class="w-full h-[50vh] max-h-[400px] object-cover" style="object-position: 50% 33%;">
+            <p>At Nimble Nexus, we're pioneering the future of digital creativity with our cutting-edge AI technologies. As a vibrant hub of innovation, our mission is to craft AI-powered products and services that not only inspire but also integrate seamlessly into your life and work.</p>
+        </div>
+        <article>
+
+  {{ .Content }}
+
+        </article>
+    </main>
+</div>
+
+</body>
+</html>
