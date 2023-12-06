@@ -1,0 +1,23 @@
+baseURL: 'https://nimblenexus.io/'
+languageCode: 'en-us'
+title: 'Nimble Nexus'
+theme: 'tailbliss'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  logo: '/nimble-nexus-logo.png'
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
