@@ -9,7 +9,7 @@ export default function Hero7() {
                         <div className="row d-flex align-items-center">
                             {/* HERO TEXT */}
                             <div className="col-md-6">
-                                <div className="hero-7-txt wow fadeInRight">
+                                <div className="hero-7-txt">
                                     {/* Title */}
                                     <h2 className="s-54 w-700">Digital marketing that drives results for your business</h2>
                                     {/* Text */}
@@ -36,7 +36,7 @@ export default function Hero7() {
                             </div>	{/* END HERO TEXT */}
                             {/* HERO IMAGE */}
                             <div className="col-md-6">
-                                <div className="hero-7-img text-center wow fadeInLeft">
+                                <div className="hero-7-img text-center">
                                     <img className="img-fluid" src="/images/img-06.png" alt="hero-image" />
                                 </div>
                             </div>
