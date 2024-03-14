@@ -7,7 +7,6 @@ import Ct08_3 from "../components/sections/Ct08_3"
 import Faqs3_6 from "../components/sections/Faqs3_6"
 import Features2_7 from "../components/sections/Features2_7"
 import Integrations2_4 from "../components/sections/Integrations2_4"
-import Lnk1_7 from "../components/sections/Lnk1_7"
 import Lnk2_7 from "../components/sections/Lnk2_7"
 import Lnk3_5 from "../components/sections/Lnk3_5"
 import Reviews2_2 from "../components/sections/Reviews2_2"
@@ -17,6 +16,7 @@ import Hero7 from "../components/sections/Hero"
 import Features6_3 from "../components/sections/HowItWorks"
 import Features13_3 from "../components/sections/Products"
 import Wswrapper_1 from "../components/sections/Mission"
+import Lnk1_7 from "../components/sections/Story"
 export default function Home() {
 
     return (
