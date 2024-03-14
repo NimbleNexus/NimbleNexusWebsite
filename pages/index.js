@@ -8,7 +8,6 @@ import Faqs3_6 from "../components/sections/Faqs3_6"
 import Features13_3 from "../components/sections/Features13_3"
 import Features2_7 from "../components/sections/Features2_7"
 import Features6_3 from "../components/sections/Features6_3"
-import Hero7 from "../components/sections/Hero7"
 import Integrations2_4 from "../components/sections/Integrations2_4"
 import Lnk1_7 from "../components/sections/Lnk1_7"
 import Lnk2_7 from "../components/sections/Lnk2_7"
@@ -17,6 +16,7 @@ import Reviews2_2 from "../components/sections/Reviews2_2"
 import Statistic1_7 from "../components/sections/Statistic1_7"
 import Wswrapper_1 from "../components/sections/Wswrapper_1"
 import Banner7_2 from "../components/sections/Contact"
+import Hero7 from "../components/sections/Hero"
 export default function Home() {
 
     return (
