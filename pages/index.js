@@ -12,11 +12,11 @@ import Lnk2_7 from "../components/sections/Lnk2_7"
 import Lnk3_5 from "../components/sections/Lnk3_5"
 import Reviews2_2 from "../components/sections/Reviews2_2"
 import Statistic1_7 from "../components/sections/Statistic1_7"
-import Wswrapper_1 from "../components/sections/Wswrapper_1"
 import Banner7_2 from "../components/sections/Contact"
 import Hero7 from "../components/sections/Hero"
 import Features6_3 from "../components/sections/HowItWorks"
 import Features13_3 from "../components/sections/Products"
+import Wswrapper_1 from "../components/sections/Mission"
 export default function Home() {
 
     return (
