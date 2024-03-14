@@ -1,5 +1,4 @@
 import Layout from "../components/layout/Layout"
-import Banner7_2 from "../components/sections/Banner7_2"
 import Brands1_5 from "../components/sections/Brands1_5"
 import Ct01_10 from "../components/sections/Ct01_10"
 import Ct02_14 from "../components/sections/Ct02_14"
@@ -17,6 +16,7 @@ import Lnk3_5 from "../components/sections/Lnk3_5"
 import Reviews2_2 from "../components/sections/Reviews2_2"
 import Statistic1_7 from "../components/sections/Statistic1_7"
 import Wswrapper_1 from "../components/sections/Wswrapper_1"
+import Banner7_2 from "../components/sections/Contact"
 export default function Home() {
 
     return (
