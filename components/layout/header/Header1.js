@@ -8,7 +8,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                 <div className="header-wrapper">
                     {/* MOBILE HEADER */}
                     <div className="wsmobileheader clearfix">
-                        <span className="smllogo"><img src="/images/logo-pink.png" alt="mobile-logo" /></span>
+                        <span className="smllogo"><img src="/images/nimble-nexus-logo-on-light-horizontal.png" alt="mobile-logo" /></span>
                         <a id="wsnavtoggle" className="wsanimated-arrow" onClick={handleMobileMenu}><span /></a>
                     </div>
                     {/* NAVIGATION MENU */}
@@ -17,8 +17,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, header
                             {/* HEADER BLACK LOGO */}
                             <div className="desktoplogo">
                                 <Link href="#hero-1" className="logo-black">
-                                    <img className="light-theme-img" src="/images/logo-pink.png" alt="logo" />
-                                    <img className="dark-theme-img" src="/images/logo-pink-white.png" alt="logo" />
+                                    <img className="light-theme-img" src="/images/nimble-nexus-logo-on-light-horizontal.png" alt="logo" />
+                                    <img className="dark-theme-img" src="/images/nimble-nexus-logo-on-dark-horizontal.png" alt="logo" />
                                 </Link>
                             </div>
                             {/* HEADER WHITE LOGO */}

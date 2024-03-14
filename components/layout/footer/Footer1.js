@@ -8,8 +8,8 @@ export default function Footer1() {
                         <div className="col-xl-10">
                             {/* FOOTER LOGO */}
                             <div className="footer-info">
-                                <img className="footer-logo" src="images/logo-black.png" alt="footer-logo" />
-                                <img className="footer-logo-dark" src="images/logo-white.png" alt="footer-logo" />
+                                <img className="footer-logo" src="images/nimble-nexus-logo-on-light-horizontal.png" alt="footer-logo" />
+                                <img className="footer-logo-dark" src="images/nimble-nexus-logo-on-dark-horizontal.png" alt="footer-logo" />
                             </div>
                             {/* FOOTER LINKS */}
                             <div className="footer-links">

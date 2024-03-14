@@ -10,8 +10,8 @@ export default function Footer3() {
                         {/* FOOTER LOGO */}
                         <div className="col-xl-3">
                             <div className="footer-info">
-                                <img className="footer-logo" src="/images/logo-pink.png" alt="footer-logo" />
-                                <img className="footer-logo-dark" src="/images/logo-pink-white.png" alt="footer-logo" />
+                                <img className="footer-logo" src="images/nimble-nexus-logo-on-light-horizontal.png" alt="footer-logo" />
+                                <img className="footer-logo-dark" src="images/nimble-nexus-logo-on-dark-horizontal.png" alt="footer-logo" />
                             </div>
                         </div>
                         {/* FOOTER LINKS */}
@@ -108,7 +108,7 @@ export default function Footer3() {
                             {/* FOOTER COPYRIGHT */}
                             <div className="col">
                                 <div className="footer-copyright">
-                                    <p className="p-sm">© 2023 Martex. <span>All Rights Reserved</span></p>
+                                    <p className="p-sm">© 2024 Nimble Nexus. <span>All Rights Reserved</span></p>
                                 </div>
                             </div>
                             {/* FOOTER SOCIALS */}
