@@ -25,23 +25,10 @@ export default function Home() {
                 <Hero7 />
                 <Features6_3 />
                 <hr className="divider" />
-                <Lnk1_7 />
-                <Ct04_3 />
-                <Features2_7 />
-                <Wswrapper_1 />
-                <Lnk2_7 />
-                <Statistic1_7 />
-                <hr className="divider" />
                 <Features13_3 />
-                <Ct01_10 />
-                <Lnk3_5 />
                 <Reviews2_2 />
-                <Brands1_5 />
-                <hr className="divider" />
-                <Ct08_3 />
-                <Ct02_14 />
-                <Integrations2_4 />
-                <Faqs3_6 />
+                <Wswrapper_1 />
+                <Lnk1_7 />
                 <hr className="divider" />
                 <Banner7_2 />
                 <hr className="divider" />
