@@ -8,7 +8,7 @@ export default function Features13_3() {
                     <div className="row d-flex align-items-center">
                         {/* FEATURES-13 WRAPPER */}
                         <div className="col-md-7 order-last order-md-2">
-                            <div className="fbox-13-wrapper wow fadeInRight">
+                            <div className="fbox-13-wrapper">
                                 <div className="row">
                                     <div className="col-md-6">
                                         {/* FEATURE BOX #1 */}
@@ -95,7 +95,7 @@ export default function Features13_3() {
                         </div>	{/* END FEATURES-13 WRAPPER */}
                         {/* TEXT BLOCK */}
                         <div className="col-md-5 order-first order-md-2">
-                            <div className="txt-block left-column wow fadeInLeft">
+                            <div className="txt-block left-column">
                                 {/* Section ID */}
                                 <span className="section-id">Access Control</span>
                                 {/* Title */}

@@ -10,13 +10,13 @@ export default function Wswrapper_1() {
                             <div className="row d-flex align-items-center">
                                 {/* IMAGE BLOCK */}
                                 <div className="col-md-6">
-                                    <div className="img-block left-column wow fadeInRight">
+                                    <div className="img-block left-column">
                                         <img className="img-fluid" src="/images/img-09.png" alt="content-image" />
                                     </div>
                                 </div>
                                 {/* TEXT BLOCK */}
                                 <div className="col-md-6">
-                                    <div className="txt-block right-column wow fadeInLeft">
+                                    <div className="txt-block right-column">
                                         {/* Section ID */}
                                         <span className="section-id">One-Stop Solution</span>
                                         {/* Title */}

@@ -10,7 +10,7 @@ export default function Features6_3() {
                         <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4">
                             {/* FEATURE BOX #1 */}
                             <div className="col">
-                                <div className="fbox-6 fb-1 wow fadeInUp">
+                                <div className="fbox-6 fb-1">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
                                         <div className="shape-ico color--theme">
@@ -31,7 +31,7 @@ export default function Features6_3() {
                             </div>	{/* END FEATURE BOX #1 */}
                             {/* FEATURE BOX #2 */}
                             <div className="col">
-                                <div className="fbox-6 fb-2 wow fadeInUp">
+                                <div className="fbox-6 fb-2">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
                                         <div className="shape-ico color--theme">
@@ -52,7 +52,7 @@ export default function Features6_3() {
                             </div>	{/* END FEATURE BOX #2 */}
                             {/* FEATURE BOX #3 */}
                             <div className="col">
-                                <div className="fbox-6 fb-3 wow fadeInUp">
+                                <div className="fbox-6 fb-3">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
                                         <div className="shape-ico color--theme">
@@ -73,7 +73,7 @@ export default function Features6_3() {
                             </div>	{/* END FEATURE BOX #3 */}
                             {/* FEATURE BOX #4 */}
                             <div className="col">
-                                <div className="fbox-6 fb-4 wow fadeInUp">
+                                <div className="fbox-6 fb-4">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
                                         <div className="shape-ico color--theme">
