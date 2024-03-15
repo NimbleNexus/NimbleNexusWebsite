@@ -382,7 +382,7 @@
   .hero-6-txt p.p-lg { margin-bottom: 22px; }
 
   /* HERO-7 */
-  #hero-7 { padding-top: 140px; padding-bottom: 90px; }
+  #hero-7 { padding-top: 140px; padding-bottom: 0px; }
   #hero-7 .quick-form { margin-right: 3%; }
   .hero-7-txt .quick-form.form-half.mt-35 { margin-top: 25px; }
   .hero-7-img { padding-left: 15px; }

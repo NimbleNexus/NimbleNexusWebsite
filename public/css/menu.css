@@ -12,6 +12,10 @@
 /*  Desktop Base CSS
 --------------------------------------------*/
 
+a[name] {
+  scroll-margin: 80px;
+}
+
 .wsmenu html,
 .wsmenu body,
 .wsmenu iframe,

@@ -3,7 +3,7 @@
 export default function Features6_3() {
     return (
         <>
-            <section id="features-6" className="pb-100 features-section division">
+            <section id="features-6" className="pt-100 pb-100 features-section division">
                 <div className="container">
                     {/* <div class="text-center">
                         <p className="s-21 color--grey">Our AI solutions are easy as 1-2-3</p>
