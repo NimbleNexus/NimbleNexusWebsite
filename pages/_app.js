@@ -15,7 +15,7 @@ import "/public/css/lunar.css"
 // import "/public/css/owl.theme.default.min.css"
 // import SmoothScroll from "../components/elements/SmoothScroll"
 import "/public/css/animate.css"
-import "/public/css/pink-theme.css"
+import "/public/css/purple-theme.css"
 import "/public/css/responsive.css"
 
 function MyApp({ Component, pageProps }) {

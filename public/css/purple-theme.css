@@ -44,7 +44,7 @@ body {
 .rel,
 section,
 .container { 
-  position: relative!important; 
+  position: relative !important; 
   z-index: 3; 
 }
 
@@ -488,9 +488,9 @@ section,
 .bg--03 { background-image: url(../images/bg-03.jpg); }
 .bg--04 { background-image: url(../images/bg-04.jpg); }
 .bg--05 { background-image: url(../images/bg-05.jpg); }
-.bg--06 { background-image: url(../images/bg-06.jpg); }
-.bg--07 { background-image: url(../images/bg-07.jpg); }
-.bg--08 { background-image: url(../images/bg-08.jpg); }
+/* .bg--06 { background-image: url(../images/bg-06.jpg); } */
+/* .bg--07 { background-image: url(../images/bg-07.jpg); } */
+/* .bg--08 { background-image: url(../images/bg-08.jpg); } */
 
 /*------------------------------------------*/
 /*  SECTION DIVIDER
@@ -10841,9 +10841,9 @@ body.theme--dark {
   background: url(../images/login_dark.jpg);
 }
 
-.theme--dark #reset-password {
+/* .theme--dark #reset-password {
   background: url(../images/reset-password-dark.jpg);
-}
+} */
 
 .theme--dark #login .register-page-wrapper:after,
 .theme--dark #signup .register-page-wrapper:after {
