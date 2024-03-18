@@ -14,10 +14,10 @@ export default function Banner7_2() {
                                 <div className="col-md-8">
                                     <div className="banner-7-txt text-center">
                                         {/* Title */}
-                                        <h2 className="s-48 w-700">Got questions?</h2>
+                                        <h2 className="s-48 w-700">Sparked your curiosity?</h2>
                                         {/* Text */}
                                         <p className="p-lg">
-                                            We’re here to help! Connect with us at Nimble Nexus.
+                                            Reach out if you'd like to learn more about what we're building!
                                         </p>
                                         {/* HERO QUICK FORM */}
                                         <form name="quickform" className="quick-form form-shadow form-half mt-35">

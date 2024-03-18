@@ -11,10 +11,12 @@ export default function Hero7() {
                             <div className="col-md-6">
                                 <div className="hero-7-txt">
                                     {/* Title */}
-                                    <h2 className="s-54 w-700">What if it's easy?</h2>
+                                    <h2 className="s-54 w-700">
+                                        Empowering You&nbsp;with&nbsp;AI
+                                    </h2>
                                     {/* Text */}
                                     <p className="p-lg">
-                                        Discover AI-driven solutions designed to seamlessly integrate into your daily routine, reducing hassle and boosting efficiency. Our journey began with a vision to create accessible technology that enhances life—one task at a time.
+                                        We are crafting solutions that effortlessly blend into your everyday life, reduce tedium and maximize productivity. Our mission started with the ambition to develop user-friendly technology that enriches life—one task at a time.
                                     </p>
                                 </div>
                             </div>	{/* END HERO TEXT */}

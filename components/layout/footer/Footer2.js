@@ -1,5 +1,6 @@
 
 export default function Footer2() {
+    return null;
     return (
         <>
             <footer id="footer-11" className="bg--white-300 pt-50 footer">

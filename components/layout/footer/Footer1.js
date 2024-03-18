@@ -1,5 +1,6 @@
 
 export default function Footer1() {
+    return null;
     return (
         <>
             <footer id="footer-10" className="pt-50 footer">

@@ -1,19 +1,7 @@
 
 import Link from "next/link"
 export default function Footer3() {
-    return (
-        <>
-            <footer id="footer-3" className="pt-100 footer ft-3-ntr">
-                <div className="container">
-                    {/* FOOTER CONTENT */}
-                    <div className="row">
-                        {/* FOOTER LOGO */}
-                        <div className="col-xl-3">
-                            <div className="footer-info">
-                                <img className="footer-logo" src="images/nimble-nexus-logo-on-light-horizontal.png" alt="footer-logo" />
-                                <img className="footer-logo-dark" src="images/nimble-nexus-logo-on-dark-horizontal.png" alt="footer-logo" />
-                            </div>
-                        </div>
+    const removedContent = () => <>
                         {/* FOOTER LINKS */}
                         <div className="col-sm-4 col-lg-3 col-xl-2">
                             <div className="footer-links fl-1">
@@ -100,8 +88,22 @@ export default function Footer3() {
                                 </form>
                             </div>
                         </div> {/* END FOOTER NEWSLETTER FORM */}
-                    </div> {/* END FOOTER CONTENT */}
                     <hr /> {/* FOOTER DIVIDER LINE */}
+    </>;
+    return (
+        <>
+            <footer id="footer-3" className="pt-100 footer ft-3-ntr">
+                <div className="container">
+                    {/* FOOTER CONTENT */}
+                    <div className="row">
+                        {/* FOOTER LOGO */}
+                        <div className="col-xl-3">
+                            <div className="footer-info">
+                                <img className="footer-logo" src="images/nimble-nexus-logo-on-light-horizontal.png" alt="footer-logo" />
+                                <img className="footer-logo-dark" src="images/nimble-nexus-logo-on-dark-horizontal.png" alt="footer-logo" />
+                            </div>
+                        </div>
+                    </div> {/* END FOOTER CONTENT */}
                     {/* BOTTOM FOOTER */}
                     <div className="bottom-footer">
                         <div className="row row-cols-1 row-cols-md-2 d-flex align-items-center">

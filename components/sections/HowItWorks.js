@@ -27,8 +27,9 @@ export default function Features6_3() {
                                     </div>	{/* End Icon */}
                                     {/* Text */}
                                     <div className="fbox-txt">
-                                        <h6 className="s-20 w-700">Choose Your Task</h6>
-                                        <p>Select from an array of AI&#8288;-&#8288;assisted functions.</p>
+                                        <h6 className="s-20 w-700">Identify and Understand</h6>
+                                        <p>We identify challenges your daily tasks, to ensure our solutions meet your specific needs.</p>
+                                        {/* <p>We begin by identifying the challenges and pain points in your daily tasks. Our team delves into understanding these issues in depth, to ensure our solutions are tailored to meet your specific needs.</p> */}
                                     </div>
                                 </div>
                             </div>	{/* END FEATURE BOX #1 */}
@@ -48,8 +49,9 @@ export default function Features6_3() {
                                     </div>	{/* End Icon */}
                                     {/* Text */}
                                     <div className="fbox-txt">
-                                        <h6 className="s-20 w-700">AI in Action</h6>
-                                        <p>Watch as our technology works its magic, efficiently and securely.</p>
+                                        <h6 className="s-20 w-700">Develop and Integrate</h6>
+                                        <p>Using advanced AI, we create user-friendly products that seamlessly integrate into your life, boosting productivity.</p>
+                                        {/* <p>Harnessing the power of advanced AI technologies, we develop innovative digital products that are user-friendly and seamlessly integrate into your everyday life. Our solutions are designed to reduce tedium and maximize productivity.</p> */}
                                     </div>
                                 </div>
                             </div>	{/* END FEATURE BOX #2 */}
@@ -69,8 +71,9 @@ export default function Features6_3() {
                                     </div>	{/* End Icon */}
                                     {/* Text */}
                                     <div className="fbox-txt">
-                                        <h6 className="s-20 w-700">Reap the Benefits</h6>
-                                        <p>Enjoy more time for what truly matters to you</p>
+                                        <h6 className="s-20 w-700">Empower and Transform</h6>
+                                        <p>Reap the benefits and enjoy spending more time on what truly matters to you.</p>
+                                        {/* <p>Finally, we empower you with these AI solutions, transforming the way you interact with information. Our mission is fulfilled when our technology enriches your life, one task at a time.</p> */}
                                     </div>
                                 </div>
                             </div>	{/* END FEATURE BOX #3 */}
