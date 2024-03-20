@@ -9,9 +9,9 @@ export default function Features13_3() {
                         <div className="col-md-7 order-last order-md-2">
                             <div className="fbox-13-wrapper">
                                 <div className="row">
-                                    <div className="col-md-6">
+                                    <div className="col-md-6 mb-30">
                                         {/* FEATURE BOX #1 */}
-                                        <div id="fb-12-1" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+                                        <div className="fbox-12 bg--white-100 block-shadow r-12" style={{height:"100%"}}>
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
                                                 <div className="shape-ico color--theme">
@@ -24,16 +24,16 @@ export default function Features13_3() {
                                                 </div>
                                             </div>	{/* End Icon */}
                                             {/* Text */}
-                                            <div className="fbox-txt">
+                                            <div>
                                                 <h5 className="s-19 w-700">Portrait Generator</h5>
                                                 <p>AI artistry at your fingertips. Present yourself just the way you like: create professional portraits for business, or playful portraits to share on social media.</p>
-                                                <span class="badge bg-success">Stage: Development</span>
+                                                <span class="badge bg-success mt-2">Stage: Development</span>
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-md-6">
+                                    <div className="col-md-6 mb-30">
                                         {/* FEATURE BOX #3 */}
-                                        <div id="fb-12-3" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+                                        <div className="fbox-12 bg--white-100 block-shadow r-12" style={{height:"100%"}}>
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
                                                 <div className="shape-ico color--theme">
@@ -46,10 +46,10 @@ export default function Features13_3() {
                                                 </div>
                                             </div>	{/* End Icon */}
                                             {/* Text */}
-                                            <div className="fbox-txt">
+                                            <div>
                                                 <h5 className="s-19 w-700">Customer Service Front-Line</h5>
                                                 <p>An AI assistant crafted to handle the most frequent inquiries. With this, your customer service staff are called to step in only when they're really needed.</p>
-                                                <span class="badge bg-info">Stage: Proof of Concept</span>
+                                                <span class="badge bg-info mt-2">Stage: Proof of Concept</span>
                                             </div>
                                         </div>
                                     </div>

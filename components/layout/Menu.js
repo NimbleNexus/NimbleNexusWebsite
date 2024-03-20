@@ -11,8 +11,8 @@ export default function Menu({ isMobileMenu }) {
                 {isMobileMenu && (
                     <li className="nl-simple" aria-haspopup="false"><Link href="#top" className="h-link">Home</Link></li>
                 )}
-                <li className="nl-simple" aria-haspopup="false"><Link href="#how-it-works" className="h-link">How It Works</Link></li>
-                <li className="nl-simple" aria-haspopup="false"><Link href="#products-and-services" className="h-link">Products and Services</Link></li>
+                <li className="nl-simple" aria-haspopup="false"><Link href="#how-it-works" className="h-link">How it works</Link></li>
+                <li className="nl-simple" aria-haspopup="false"><Link href="#products-and-services" className="h-link">What we build</Link></li>
                 <li className="nl-simple" aria-haspopup="false"><Link href="#mission" className="h-link">Mission</Link></li>
                 <li className="nl-simple" aria-haspopup="false"><Link href="#founders-stories" className="h-link">Founders' Stories</Link></li>
                 <li className="nl-simple" aria-haspopup="false">
