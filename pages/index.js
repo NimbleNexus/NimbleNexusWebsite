@@ -29,10 +29,10 @@ export default function Home() {
                 <a name="products-and-services"></a>
                 <Features13_3 />
                 {/* <Reviews2_2 /> */}
-                <a name="mission"></a>
-                <Wswrapper_1 />
                 <a name="founders-stories"></a>
                 <Lnk1_7 />
+                <a name="mission"></a>
+                <Wswrapper_1 />
                 <hr className="divider" />
                 <a name="contact-us"></a>
                 <Banner7_2 />
