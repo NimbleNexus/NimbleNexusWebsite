@@ -16,7 +16,7 @@ export default function Hero7() {
                                     </h2>
                                     {/* Text */}
                                     <p className="p-lg">
-                                        We are crafting solutions that effortlessly blend into your everyday life, reduce tedium and maximize productivity. Our mission started with the ambition to develop user-friendly technology that enriches life—one task at a time.
+                                        Discover solutions that effortlessly blend into your everyday life, reduce tedium and maximize your productivity. This mission started with the ambition to develop user-friendly technology that enriches life—one task at a time.
                                     </p>
                                 </div>
                             </div>	{/* END HERO TEXT */}
